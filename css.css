@@ -1,0 +1,27 @@
+/* Background colour */
+body {
+  background-color: black;
+}
+
+/* Heading 1 properties */
+h1 {
+  font-family: Comic Sans MS;color:white;
+  text-align: center;
+}
+
+/* Heading 2 properties */
+h2 {
+  font-family: Comic Sans MS;color:white;
+  text-align: center;
+}
+
+/* Paragraph properties */
+p {
+  font-family: Comic Sans MS;color:white;
+  font-size: 20px;
+}
+
+/* Link properties */
+a {
+  font-family: Comic Sans MS;color:white;
+}
